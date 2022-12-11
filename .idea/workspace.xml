@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="minivim" targetName="minivim" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0d568c1-8b22-4286-9c21-b7627ef07fd7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2Hr97eQOxzj8DAndYujg0cBsOnz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/dizzyd/minivim&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="minivim" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="minivim" TARGET_NAME="minivim" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="minivim" RUN_TARGET_NAME="minivim">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0d568c1-8b22-4286-9c21-b7627ef07fd7" name="Changes" comment="" />
+      <created>1669032168395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669032168395</updated>
+      <workItem from="1669032169685" duration="667000" />
+      <workItem from="1669032848395" duration="685000" />
+      <workItem from="1669033545913" duration="267000" />
+      <workItem from="1669033915481" duration="661000" />
+      <workItem from="1669036675919" duration="115000" />
+      <workItem from="1669036862558" duration="27000" />
+      <workItem from="1669275989185" duration="57000" />
+      <workItem from="1669276057537" duration="1459000" />
+      <workItem from="1669277610505" duration="2091000" />
+      <workItem from="1669279744565" duration="5207000" />
+      <workItem from="1669724182573" duration="1021000" />
+      <workItem from="1669726444824" duration="13000" />
+      <workItem from="1669726475783" duration="3729000" />
+      <workItem from="1669732937654" duration="110000" />
+      <workItem from="1669888829596" duration="238000" />
+      <workItem from="1669969662772" duration="1708000" />
+      <workItem from="1669971933262" duration="6619000" />
+      <workItem from="1669984027463" duration="4782000" />
+      <workItem from="1670151405160" duration="630000" />
+      <workItem from="1670299750084" duration="4515000" />
+      <workItem from="1670324315692" duration="127000" />
+      <workItem from="1670676028359" duration="6743000" />
+      <workItem from="1670717495999" duration="669000" />
+      <workItem from="1670718351385" duration="11878000" />
+      <workItem from="1670730409477" duration="1895000" />
+      <workItem from="1670733552889" duration="183000" />
+      <workItem from="1670738901618" duration="4337000" />
+      <workItem from="1670745186005" duration="3396000" />
+      <workItem from="1670751030094" duration="7326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

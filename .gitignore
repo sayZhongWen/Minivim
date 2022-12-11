@@ -1,0 +1,11 @@
+.cmake/
+idea/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+Testing/
+a.out
+cmake-build-debug/
+cmake-install.cmake
+minivim
+minivim.cbq
